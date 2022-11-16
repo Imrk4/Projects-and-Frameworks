@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-18T08:55:02 PDT" name="Default suite" finished-at="2022-09-18T08:56:10 PDT" duration-ms="68217">
+    <groups>
+    </groups>
+    <test started-at="2022-09-18T08:55:02 PDT" name="Default test" finished-at="2022-09-18T08:56:10 PDT" duration-ms="68217">
+      <class name="selenium1.NewTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:selenium1.NewTest@32b260fa]" started-at="2022-09-18T08:55:02 PDT" name="beforeTest" finished-at="2022-09-18T08:55:10 PDT" duration-ms="7932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="f()[pri:0, instance:selenium1.NewTest@32b260fa]" started-at="2022-09-18T08:55:10 PDT" name="f" finished-at="2022-09-18T08:56:10 PDT" duration-ms="60186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:selenium1.NewTest@32b260fa]" started-at="2022-09-18T08:56:10 PDT" name="afterTest" finished-at="2022-09-18T08:56:10 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- selenium1.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
